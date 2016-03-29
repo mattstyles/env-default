@@ -1,0 +1,27 @@
+{
+  "name": "env-default",
+  "version": "0.0.0",
+  "description": "Picks a value out of environment variables or package info or uses a default",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattstyles/env-default.git"
+  },
+  "keywords": [
+    "env",
+    "var",
+    "environment",
+    "npm",
+    "config",
+    "default"
+  ],
+  "author": "Matt Styles <matt@veryfizzyjelly.com> (http://github.com/mattstyles)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattstyles/env-default/issues"
+  },
+  "homepage": "https://github.com/mattstyles/env-default#readme"
+}
