@@ -1,6 +1,6 @@
 {
   "name": "env-default",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Picks a value out of environment variables or package info or uses a default",
   "main": "index.js",
   "scripts": {
